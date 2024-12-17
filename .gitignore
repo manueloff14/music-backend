@@ -5,4 +5,4 @@
 /prueba.html
 
 # Ignoramos el archivo .env.local
-/.env.local
+/.env
