@@ -1,0 +1,8 @@
+# Inoramos node_modules
+/node_modules
+
+# Ignoramos el archivo prueba.html
+/prueba.html
+
+# Ignoramos el archivo .env.local
+/.env.local
